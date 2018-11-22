@@ -9,6 +9,7 @@ This is a non-exhaustive list of site-repos from various communities
 - [site-ffac](https://github.com/ffac/site) (Regio Aachen)
 - [site-ffbs](https://github.com/ffbs/site-ffbs) (Braunschweig)
 - [site-ffhb](https://github.com/FreifunkBremen/gluon-site-ffhb) (Bremen)
+- [site-ffc](https://gitlab.com/FreifunkChemnitz/site-ffc) (Chemnitz)
 - [site-ffda](https://git.darmstadt.ccc.de/ffda/site) (Darmstadt)
 - [site-ff3l](https://github.com/ff3l/site-ff3l) (Dreiländereck)
 - [site-ffeh](https://github.com/freifunk-ehingen/site-ffeh) (Ehingen)
